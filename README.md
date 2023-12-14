@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on YourBeauty website [first freelance project]<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for passionate developers to join Team-Build<br>🌱 I’m currently learning NextJS, Solidity<br>💬 Ask me about anything!<br>⚡ Fun fact, I start my YouTube career to document my journey to become Developer
+👋 Greetings! I'm Michal Zawadzki, a Full Stack JavaScript Developer.
+
+🚀 I underwent comprehensive training at a 16-week School of Code bootcamp, specializing in Full Stack JavaScript development. This program not only enhanced my technical proficiency but also instilled a deep understanding of Agile methodologies and effective collaboration within tech teams.
+
+🌐 Prior to transitioning into the tech field, I managed my own business. Recognizing the substantial risk and investment associated with hiring a junior developer, I want to assure you of my awareness of this responsibility. I am committed to demonstrating that selecting me is a judicious decision, and I am dedicated to promptly becoming a valuable team member.
+
+💡 Key Attributes:
+- 🔄 **Adaptability:** I possess a rapid learning curve and can adapt swiftly to new challenges.
+- 🛠️ **Technical Acumen:** Proficient in Full Stack JavaScript development.
+- 🤖 **Team Collaboration:** Experienced in fostering effective communication and collaboration within a team.
+
+🔗 Eager to Contribute!**
+
+Feel free to explore my project portfolio, and I welcome the opportunity to discuss how my skills and dedication can complement your team's objectives.
+
+--- 
 
 
 ## 🌐 Socials:
